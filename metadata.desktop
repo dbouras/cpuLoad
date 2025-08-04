@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CPU Load Monitor
+Comment=Plasmoid for monitoring CPU load
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Dimitri Bouras
+X-KDE-PluginInfo-Email=dimitrios.bouras@gmail.com
+X-KDE-PluginInfo-License=GPL2
+X-KDE-PluginInfo-Name=org.kde.cpuLoad
+X-KDE-PluginInfo-Version=0.2
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
+X-KDE-PluginInfo-Category=System Information
+Icon=utilities-system-monitor
